@@ -1,0 +1,37 @@
+{
+  "name": "cybermentor",
+  "version": "1.0.0",
+  "description": "CyberMentor — Defensive Cybersecurity AI Learning Network & Vulnerability Scanner for Hacktoberfest",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test",
+    "check": "node scripts/check-keys.js"
+  },
+  "keywords": [
+    "cybersecurity",
+    "hacktoberfest",
+    "hacktoberfest2026",
+    "mentor",
+    "ai",
+    "cerebras",
+    "stripe-connect",
+    "vulnerability-scanner",
+    "owasp",
+    "figma"
+  ],
+  "author": "Md Shahriyar Al Mustakim Mitul & Fahim (Nothacker-Fahim)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.6"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "optionalDependencies": {
+    "@cerebras/cerebras_cloud_sdk": "^1.91.0",
+    "stripe": "^17.5.0"
+  }
+}
