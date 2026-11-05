@@ -71,8 +71,8 @@ CyberMentor is built with **zero external blockers** — if you do not have API 
 
 ### 1. Clone & Enter Directory
 ```bash
-git clone https://github.com/mitul3737/mentor-match.git
-cd mentor-match
+git clone https://github.com/0xCaptainFahim/Hacktoberfest_Figma_Makeathon
+cd Hacktoberfest_Figma_Makeathon
 ```
 
 ### 2. Verify / Install Dependencies
