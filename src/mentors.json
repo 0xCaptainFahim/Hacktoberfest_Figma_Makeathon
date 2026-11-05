@@ -1,0 +1,8 @@
+[
+  { "id": "m1", "name": "Nadia Rahman", "title": "Cloud Security Engineer", "skills": ["aws", "terraform", "iam", "devsecops"], "priceUsd": 15, "bio": "Builds secure cloud foundations and teaches practical IAM and infrastructure reviews." },
+  { "id": "m2", "name": "Arif Hossain", "title": "Application Security Engineer", "skills": ["owasp", "threat modeling", "web security", "secure code"], "priceUsd": 20, "bio": "Helps teams find and prevent common web application risks before launch." },
+  { "id": "m3", "name": "Tasnim Akter", "title": "Security Automation Engineer", "skills": ["python", "siem", "incident response", "automation"], "priceUsd": 25, "bio": "Turns alert noise into reliable, repeatable detection and response workflows." },
+  { "id": "m4", "name": "Rafi Chowdhury", "title": "SOC Analyst", "skills": ["splunk", "siem", "log analysis", "incident response"], "priceUsd": 12, "bio": "Teaches blue-team triage, investigation notes, and calm incident handling." },
+  { "id": "m5", "name": "Sumaiya Islam", "title": "Privacy & GRC Specialist", "skills": ["privacy", "risk assessment", "compliance", "security awareness"], "priceUsd": 18, "bio": "Makes security policies, risk registers, and privacy practices approachable." },
+  { "id": "m6", "name": "Fahim Ahmed", "title": "AI Security Researcher", "skills": ["ai security", "llm security", "prompt injection", "python"], "priceUsd": 22, "bio": "Builds safer AI applications with threat models, guardrails, and evaluations." }
+]
