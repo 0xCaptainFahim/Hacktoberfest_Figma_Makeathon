@@ -159,12 +159,6 @@ We welcome all open-source contributors during Hacktoberfest and throughout the 
 
 Please review our [**CONTRIBUTING.md**](CONTRIBUTING.md) and [**CODE_OF_CONDUCT.md**](CODE_OF_CONDUCT.md) before submitting a pull request.
 
----
-
-## 👥 Authors & Maintainers
-
-- **Md Shahriyar Al Mustakim Mitul** ([@mitul3737](https://github.com/mitul3737))
-- **Fahim (Captain Fahim / Nothacker-Fahim)**
 
 ---
 
